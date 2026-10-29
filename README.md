@@ -9,7 +9,7 @@ Welcome to Color Sort Quest (“the App”), a color-sorting puzzle game intende
 
 This Privacy Policy explains how information may be processed when you use the App, including through third-party advertising services. It is intended to help parents and guardians understand the App's privacy practices.
 
-The App is developed and published by **[Developer or Company Name]** (“we,” “our,” or “us”).
+The App is developed and published by **Ijaz Ali** (“we,” “our,” or “us”).
 
 ## 2. Information Stored by the App
 
@@ -134,8 +134,8 @@ The latest version will be published with an updated “Last Updated” date. Wh
 For questions or concerns about this Privacy Policy or children's privacy, contact:
 
 **App Name:** Color Sort Quest  
-**Developer/Company:** [Developer or Company Name]  
-**Privacy Contact Email:** [Your Contact Email]  
-**Privacy Policy URL:** [Your Published Privacy Policy URL]
+**Developer/Company:** Ijaz Ali
+**Privacy Contact Email:** ijaz.ali.se@gmail.com
+**Privacy Policy URL:** https://github.com/ijazalipse/color-sort-quest-privacy-policy
 
 Parents and guardians are welcome to contact us with questions about the App's privacy practices.
